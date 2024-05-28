@@ -7,8 +7,8 @@
 
 ### *:octocat: Language*
 <br>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
@@ -30,7 +30,6 @@
 <a href="https://jvden.tistory.com"><img src="https://img.shields.io/badge/blog-jvd3n-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
 <a href="mailto:jvden.lee@gmail.com"><img src="https://img.shields.io/badge/gmail-jvd3n-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/sgR0Csrd"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
-<br>
 <br>
 
 [![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=vd3n&show_icons=true&theme=onedark)](https://github.com/vd3n/)
