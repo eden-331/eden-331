@@ -7,8 +7,9 @@
 
 ### *:octocat: Language*
 <br>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
+<a href="https://github.com/vd3n"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/vd3n"><img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white"/></a>
+<a href="https://github.com/vd3n"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
@@ -22,7 +23,8 @@
 <br>
 
 ### *:trophy: Competition*
-<a href="https://www.kaggle.com/mutendev"><img src="https://img.shields.io/badge/kaggle-cornflowerblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
+<a href="https://www.kaggle.com/mutendev">
+<img src="https://img.shields.io/badge/kaggle-cornflowerblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
 <br>
 
