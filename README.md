@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Nest.js-white?style=for-the-badge&logo=nestjs&logoColor=red"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
