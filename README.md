@@ -12,7 +12,8 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;
