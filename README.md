@@ -53,7 +53,7 @@
 <a href="https://open.kakao.com/o/sgR0Csrd"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
 
-[![muten's GitHub stats](https://github-readme-stats.vercel.app/api?username=vd3n&show_icons=true&theme=onedark)](https://github.com/vd3n/)
+[![jvd3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=vd3n&show_icons=true&theme=onedark)](https://github.com/vd3n/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vd3n&layout=compact)](https://github.com/vd3n/)
 
 
