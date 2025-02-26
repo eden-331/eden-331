@@ -42,13 +42,13 @@
 <br>
 
 ### :beers: *Contact me*
-<a href="https://jvden.tistory.com"><img src="https://img.shields.io/badge/blog-jvd3n-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
-<a href="mailto:jvden.lee@gmail.com"><img src="https://img.shields.io/badge/gmail-jvd3n-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://jhnnx.tistory.com"><img src="https://img.shields.io/badge/blog-jhnnx-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
+<a href="mailto:jhnnx.lee@gmail.com"><img src="https://img.shields.io/badge/gmail-jhnnx-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/sgR0Csrd"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
 
-[![jvd3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=vd3n&show_icons=true&theme=onedark)](https://github.com/vd3n/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vd3n&layout=compact)](https://github.com/vd3n/)
+[![jhnnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=vd3n&show_icons=true&theme=onedark)](https://github.com/jhnnx/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vd3n&layout=compact)](https://github.com/jhnnx/)
 
 
 
