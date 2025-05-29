@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 
 
+<!---
 ### :bulb: *Machine/Deep Learning*
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
 <br>
@@ -46,10 +47,10 @@
 <img src="https://img.shields.io/badge/kaggle-cornflowerblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
 <br>
-
+--->
 ### :beers: *Contact me*
-<a href="https://jhnnx.tistory.com"><img src="https://img.shields.io/badge/blog-jhnnx-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
-<a href="mailto:jhnnx.lee@gmail.com"><img src="https://img.shields.io/badge/gmail-jhnnx-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://edeninvoid.tistory.com"><img src="https://img.shields.io/badge/blog-jhnnx-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
+<a href="mailto:eden.in.void@gmail.com"><img src="https://img.shields.io/badge/gmail-jhnnx-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/ssQMnvih"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
 
