@@ -49,8 +49,8 @@
 <br>
 --->
 ### :beers: *Contact me*
-<a href="https://edeninvoid.tistory.com"><img src="https://img.shields.io/badge/blog-jhnnx-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
-<a href="mailto:eden.in.void@gmail.com"><img src="https://img.shields.io/badge/gmail-jhnnx-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://edeninvoid.tistory.com"><img src="https://img.shields.io/badge/blog-edeninvoid-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
+<a href="mailto:eden.in.void@gmail.com"><img src="https://img.shields.io/badge/gmail-eden.in.void-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/ssQMnvih"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
 
