@@ -5,7 +5,7 @@
 - 🥑 감사합니다.
 <br>
 
-### :octocat: *Skills*
+### 🧰 *Tech*
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>&nbsp;
@@ -26,17 +26,20 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=Confluence&logoColor=white"/>&nbsp;
 
-### 💾 *DB*
+### 🗄️ *Database*
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oculus&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>&nbsp;
 
-### ䷦ *Infra* 
+### ☁️ *Infra* 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 
+### ☁️ *DevOps* 
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 
 <!---
 ### :bulb: *Machine/Deep Learning*
