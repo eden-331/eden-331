@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Eden.Lee&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
 ### *:wave: Greeting,*
-- 🖥️ 풀스택 개발자 이성준입니다.
-- ⌨️ 다양한 배움에 관심이 있습니다.
-- 🥑 감사합니다.
+- 개발자 이성준입니다.
+- 다양한 배움에 관심이 있습니다.
+- 감사합니다. 🙂
 <br>
 
 ### 🎯 *Tech*
