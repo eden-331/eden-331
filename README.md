@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>&nbsp;
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 
-### ☁️ *DevOps* 
+### ⚙️ *DevOps* 
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 
 <!---
