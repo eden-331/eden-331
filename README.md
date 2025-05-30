@@ -39,8 +39,9 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>&nbsp;
-<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
+<br/>
+<br/>
 <!---
 ### :bulb: *Machine/Deep Learning*
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
@@ -58,12 +59,10 @@
 <a href="https://open.kakao.com/o/ssQMnvih"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
 
+<!---
 [![jhnnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=edeninvoid&show_icons=true&theme=onedark)](https://github.com/edeninvoid/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeninvoid&layout=compact)](https://github.com/edeninvoid/)
 
-
-
-<!---
 **muten-dev/muten-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
