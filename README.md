@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Jotai-f5f5f5?style=for-the-badge&logo=ghostery&logoColor=black"/>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/styled–components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>&nbsp;
 <br>
