@@ -35,7 +35,7 @@
 
 ### ☁️ *Infra* 
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>&nbsp;
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 
 ### ☁️ *DevOps* 
