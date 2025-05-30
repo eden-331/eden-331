@@ -28,6 +28,7 @@
 
 ### 💾 *DB*
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oculus&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>&nbsp;
