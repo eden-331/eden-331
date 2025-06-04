@@ -5,6 +5,7 @@
 - 감사합니다. 🙂
 <br>
 
+<!--
 ### 🎯 *Tech*
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
@@ -52,13 +53,12 @@
 <img src="https://img.shields.io/badge/kaggle-cornflowerblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
 <a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
 <br>
---->
 ### :beers: *Contact me*
 <a href="https://edeninvoid.tistory.com"><img src="https://img.shields.io/badge/blog-edeninvoid-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
 <a href="mailto:eden.in.void@gmail.com"><img src="https://img.shields.io/badge/gmail-eden.in.void-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/ssQMnvih"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
-
+--->
 <!---
 [![jhnnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=edeninvoid&show_icons=true&theme=onedark)](https://github.com/edeninvoid/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeninvoid&layout=compact)](https://github.com/edeninvoid/)
