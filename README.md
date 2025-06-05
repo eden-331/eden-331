@@ -1,18 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Eden.Lee&desc=welcome&fontSize=90&fontAlignY=33&descAlign=61&descAlignY=51)
-### *:wave: Greeting,*
-- 개발자 이성준입니다.
+### *👋 Greeting,*
+- 안녕하세요, 개발자 이성준입니다.
 - 다양한 시각으로 바라보는 것을 즐기며,
 - 새로운 배움에 늘 관심이 많습니다.
 - 감사합니다. 🙂
 
-### *📌 Work,*
-- (현) 커머스온 프론트엔드, CI/CD 개발
-- (전) 이노그리드 백엔드, 인프라 개발
-- ...
-
-<!--
-### 🏃🏻 Experience,*
-- 인프런 워밍업 클럽 4기 과정 
+### *📌 History,*
+- 명지대학교 경영정보학과(MIS) 졸업
+- 이노그리드(전) | 백엔드 개발 및 인프라 구축
+- 커머스온(현) | 프론트엔드 및 CI/CD 운영
 
 ### 🎯 *Tech*
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
@@ -23,11 +19,9 @@
 <br>
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/styled–components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>&nbsp;
 <br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>&nbsp;
 <br>
@@ -50,24 +44,17 @@
 <img src="https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>&nbsp;
 <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
 <br/>
-<br/>
-<!---
-### :bulb: *Machine/Deep Learning*
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>&nbsp;
-<br>
 
-### :trophy: *Competition*
-<a href="https://www.kaggle.com/mutendev">
-<img src="https://img.shields.io/badge/kaggle-cornflowerblue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
-<a href="https://dacon.io/myprofile/428385/home"><img src="https://img.shields.io/badge/dacon-orchid?style=for-the-badge&logo=Mendeley&logoColor=white"/></a>
-<br>
+<!--
+### 🏃🏻 Experience,*
+- 인프런 워밍업 클럽 4기 과정 수료
+
 ### :beers: *Contact me*
 <a href="https://edeninvoid.tistory.com"><img src="https://img.shields.io/badge/blog-edeninvoid-cyan?style=flat&logo=blogger&logoColor=white"/></a>&nbsp;
 <a href="mailto:eden.in.void@gmail.com"><img src="https://img.shields.io/badge/gmail-eden.in.void-crimson?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://open.kakao.com/o/ssQMnvih"><img src="https://img.shields.io/badge/kakao-OpenChat-gold?style=flat&logo=kakaotalk&logoColor=white"/></a><br>
 <br>
---->
-<!---
+
 [![jhnnx's GitHub stats](https://github-readme-stats.vercel.app/api?username=edeninvoid&show_icons=true&theme=onedark)](https://github.com/edeninvoid/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edeninvoid&layout=compact)](https://github.com/edeninvoid/)
 
