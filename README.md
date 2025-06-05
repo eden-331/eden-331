@@ -8,7 +8,7 @@
 ### *📌 History*
 - 명지대학교 경영정보학과(MIS) 졸업
 - 이노그리드(전) | 백엔드 개발 및 인프라 구축
-- 커머스온(현) | 프론트엔드 및 CI/CD 운영
+- 커머스온(현) | 프론트엔드 개발 및 CI/CD 운영
 
 ### 🎯 *Tech*
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
