@@ -11,6 +11,9 @@
 - ...
 
 <!--
+### 🏃🏻 Experience,*
+- 인프런 워밍업 클럽 4기 과정 
+
 ### 🎯 *Tech*
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;
