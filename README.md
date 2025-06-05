@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>&nbsp;
 
 ### ☁️ *Infra & DevOps*
-<img src="https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/>&nbsp;
+<img src="https://img.shields.io/badge/gitlab-f5f5f5?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/>&nbsp;
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>&nbsp;
